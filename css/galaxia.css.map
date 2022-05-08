@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,IAAI,CAAC;EACD,gBAAgB,EAJZ,OAAe;CAKtB;;AAED,AAEI,OAFG,CAEH,CAAC,CAAC;EACE,KAAK,EAAE,UAAU;CACpB;;AAJL,AAKI,OALG,CAKH,EAAE,CAAC;EACC,KAAK,EAAE,UAAU;CACpB;;AAIL,AAAA,cAAc,CAAC;EACX,gBAAgB,EAAE,OAAe;CACpC;;AAED,AAAA,aAAa,CAAC;EACV,QAAQ,EAAE,MAAM;CACnB",
+    "sources": [
+        "../scss/galaxia.scss"
+    ],
+    "names": [],
+    "file": "galaxia.css"
+}

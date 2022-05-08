@@ -1,0 +1,25 @@
+$preto: rgb(15, 15, 15);
+$roxo: rgb(83, 0, 138);
+
+body {
+    background-color: $preto;
+}
+
+section {
+
+    p {
+        color: whitesmoke;
+    }
+    h1 {
+        color: whitesmoke;
+    }
+    
+}
+
+.galaxy-navbar {
+    background-color: rgb(29, 10, 37);
+}
+
+.overflow-fix {
+    overflow: hidden;
+}
