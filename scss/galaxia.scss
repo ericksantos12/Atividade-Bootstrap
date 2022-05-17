@@ -1,25 +1,27 @@
 $preto: rgb(15, 15, 15);
-$roxo: rgb(83, 0, 138);
+$roxo: rgb(53, 17, 68);
 
 body {
     background-color: $preto;
 }
 
 section {
+    color: whitesmoke; 
 
-    p {
-        color: whitesmoke;
+    h2{
+        color: rgb(151,159,173);
     }
-    h1 {
-        color: whitesmoke;
+
+    h3{
+        color: rgb(205, 212, 224);
     }
     
 }
 
 .galaxy-navbar {
-    background-color: rgb(29, 10, 37);
+    background-color: $roxo;
 }
 
-.overflow-fix {
-    overflow: hidden;
+@media (max-width: 767.98px) {
+    section {text-align: center;}
 }

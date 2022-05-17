@@ -2,19 +2,25 @@ body {
   background-color: #0f0f0f;
 }
 
-section p {
+section {
   color: whitesmoke;
 }
 
-section h1 {
-  color: whitesmoke;
+section h2 {
+  color: #979fad;
+}
+
+section h3 {
+  color: #cdd4e0;
 }
 
 .galaxy-navbar {
-  background-color: #1d0a25;
+  background-color: #351144;
 }
 
-.overflow-fix {
-  overflow: hidden;
+@media (max-width: 767.98px) {
+  section {
+    text-align: center;
+  }
 }
 /*# sourceMappingURL=galaxia.css.map */
