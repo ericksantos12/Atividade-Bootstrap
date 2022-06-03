@@ -15,7 +15,24 @@ section {
     h3{
         color: rgb(205, 212, 224);
     }
-    
+
+    a{
+        color: rgb(172, 142, 185);
+    }
+
+    a:link {
+        text-decoration: none;
+    }
+    a:visited {
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: none;
+        color: rgb(131, 105, 143);
+    }
+    a:active {
+        text-decoration: none;
+    }
 }
 
 .galaxy-navbar {
